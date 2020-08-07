@@ -19,4 +19,4 @@ Version 1 only supports A-Z and space. The characters are 3 x 3 characters in si
 # How to Compile
 This is the command I use to compile the source:
 
-cl65 -o BANNER-FONT.PRG -t cx16 -C cx16-asm.cfg banner.s
+```cl65 -o BANNER-FONT.PRG -t cx16 -C cx16-asm.cfg banner.s```
